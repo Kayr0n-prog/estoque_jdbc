@@ -1,0 +1,29 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+build/
+!/.mvn/wrapper/maven-wrapper.jar
+!/src/main/resources/**/
+!/src/main/java/**/
+!/src/test/resources/**/
+!/src/test/java/**/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS
+.DS_Store
+Thumbs.db
